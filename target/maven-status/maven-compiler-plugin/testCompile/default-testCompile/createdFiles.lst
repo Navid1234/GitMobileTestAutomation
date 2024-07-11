@@ -1,0 +1,7 @@
+MobileTestAutomation\AppiumFrameworkDesign\ProductAddition.class
+testUtils\BaseTest2.class
+MobileTestAutomation\AppiumFrameworkDesign\ProductFormPage.class
+MobileTestAutomation\AppiumFrameworkDesign\GeneralStoreTestScenarios.class
+MobileTestAutomation\AppiumFrameworkDesign\PriceofProducts.class
+testUtils\TestListeners.class
+testUtils\ExtentReporterNG.class
